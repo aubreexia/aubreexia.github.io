@@ -1,6 +1,6 @@
 ---
 layout: default
-modal-id: Penn State (Men)
+modal-id: 1
 date: 2014-09-10
 img: penn_state.png
 alt: image-alt
