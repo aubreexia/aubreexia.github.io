@@ -21,8 +21,8 @@
             {% endif %}
             <ul class="list-inline item-details">
               {% if post.client %}
-              <li>Client:
-                <strong>{{ post.client }}</strong>
+              <li>Home Team:
+                <strong>{{ post.hometeam }}</strong>
               </li>
               {% endif %}
               {% if post.project-date %}
@@ -31,8 +31,8 @@
               </li>
               {% endif %}
               {% if post.category %}
-              <li>Service:
-                <strong>{{ post.category }}</strong>
+              <li>Opposite Team:
+                <strong>{{ post.oppositeteam }}</strong>
               </li>
               {% endif %}
             </ul>
