@@ -20,7 +20,7 @@
             <p>{{ post.description }}</p>
             {% endif %}
             <ul class="list-inline item-details">
-              {% if post.client %}
+              {% if post.hometeam %}
               <li>Home Team:
                 <strong>{{ post.hometeam }}</strong>
               </li>
@@ -30,7 +30,7 @@
                 <strong>{{ post.project-date }}</strong>
               </li>
               {% endif %}
-              {% if post.category %}
+              {% if post.oppositeteam %}
               <li>Opposite Team:
                 <strong>{{ post.oppositeteam }}</strong>
               </li>
