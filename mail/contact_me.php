@@ -4,7 +4,7 @@ $email_address = filter_var($_POST['email'], FILTER_VALIDATE_EMAIL);
 // Check for empty fields
 if(empty($_POST['name'])  		||
    empty($_POST['email']) 		||
-   empty($_POST['phone']) 		||
+   #empty($_POST['phone']) 		||
    empty($_POST['message'])	||
    !$email_address)
    {
@@ -17,7 +17,7 @@ if ($email_address === FALSE) {
     echo 'Invalid email';
     exit(1);
 }
-$phone = $_POST['phone'];
+#$phone = $_POST['phone'];
 $message = $_POST['message'];
 
 if (empty($_POST['_gotcha'])) { // If hidden field was filled out (by spambots) don't send!
