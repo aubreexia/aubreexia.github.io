@@ -5,7 +5,7 @@ date: 2014-09-10
 img: penn_state.png
 alt: image-alt
 project-date: September 2024
-Home Team: Michigan Wolverines (Men)
-Opposite Team: Penn State Nittany Lion (Men)
+Home Team: Michigan Wolverines
+Opposite Team: Penn State Nittany Lion
 description: This report provides specific data analysis before the Michigan men's soccer team and penn state men's soccer team
 ---
