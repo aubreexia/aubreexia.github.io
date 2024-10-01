@@ -2,12 +2,12 @@
 layout: default
 modal-id: 1
 order: 1
-img: penn_state.png
+img: lowa_state.png
 alt: image-alt
-gender: Men
-project-date: September 10th 2024
-hometeam: Michigan Wolverines
-oppositeteam: Penn State Nittany Lion
-description: This report provides specific data analysis before the Michigan men's soccer team and Penn State men's soccer team.
-pdf: Men's Pre Match Report vs Penn State 9.10.24 copy.pdf
+gender: Women
+project-date: September 5th 2024
+hometeam: Michigan
+oppositeteam: Lowa State 
+description: This report provides specific data analysis before the Michigan women soccer team and Lowa State women soccer team.
+pdf: Women's Iowa State 9.5.24.pdf
 ---
