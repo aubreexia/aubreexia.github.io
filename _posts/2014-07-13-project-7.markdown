@@ -1,14 +1,14 @@
 ---
 layout: default
-title: Minnesota(Women)
-modal-id: 6
-order: 6
-img: minnesoda.png
+title: UCLA(Men)
+modal-id: 7
+order: 7
+img: ucla.png
 alt: image-alt
-gender: Women
-project-date: September16th 2024
+gender: Men
+project-date: September18th 2024
 hometeam: Michigan
-oppositeteam: Minnesota
-description: This report provides specific data analysis before the Michigan women soccer team and Minnesota women soccer team.
-pdf: Women's Pre Match Report at Minnesota 9.16.24.pdf
+oppositeteam: UCLA
+description: This report provides specific data analysis before the Michigan men soccer team and UCLA men soccer team.
+pdf: Men's Pre Match Report at UCLA 9.18.24.pdf
 ---
