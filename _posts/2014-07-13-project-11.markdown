@@ -5,7 +5,7 @@ modal-id: 11
 order: 11
 img: ohio_state.png
 alt: image-alt
-gender: Women
+gender: Men
 project-date: October 1st 2024
 hometeam: Michigan
 oppositeteam: Ohio State
