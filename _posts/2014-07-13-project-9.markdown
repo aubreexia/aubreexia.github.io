@@ -1,14 +1,14 @@
 ---
 layout: default
-title: Minnesota(Women)
-modal-id: 6
-order: 6
-img: minnesoda.png
+title: Rutgers(Men)
+modal-id: 9
+order: 9
+img: rugers.png
 alt: image-alt
-gender: Women
-project-date: September16th 2024
+gender: Men
+project-date: September25th 2024
 hometeam: Michigan
-oppositeteam: Minnesota
-description: This report provides specific data analysis before the Michigan women soccer team and Minnesota women soccer team.
-pdf: Women's Pre Match Report at Minnesota 9.16.24.pdf
+oppositeteam: Rutgers
+description: This report provides specific data analysis before the Michigan men soccer team and Rutgers men soccer team.
+pdf: Men's Pre Match Report at Rutgers 9.25.24.pdf
 ---
