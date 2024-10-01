@@ -10,5 +10,5 @@ project-date: September 26th 2024
 hometeam: Michigan
 oppositeteam: Ohio State
 description: This report provides specific data analysis before the Michigan women soccer team and Ohio State women soccer team.
-pdf: MWomen's Pre Match Report vs Ohio State 9.26.24.pdf
+pdf: Women's Pre Match Report vs Ohio State 9.26.24.pdf
 ---
