@@ -1,11 +1,14 @@
 ---
 layout: default
+title: Minnesota(Women)
 modal-id: 6
-date: 2014-07-15
-img: UCLA.png
+order: 6
+img: minnesota.png
 alt: image-alt
-project-date: April 2014
-client: Start Bootstrap
-category: Web Development
-description: Use this area of the page to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia neque assumenda ipsam nihil, molestias magnam, recusandae quos quis inventore quisquam velit asperiores, vitae? Reprehenderit soluta, eos quod consequuntur itaque. Nam.
+gender: Women
+project-date: September16th 2024
+hometeam: Michigan
+oppositeteam: Minnesota
+description: This report provides specific data analysis before the Michigan women soccer team and Minnesota women soccer team.
+pdf: Women's Pre Match Report at Minnesota 9.16.24.pdf
 ---
