@@ -1,14 +1,14 @@
 ---
 layout: default
-title: Minnesota(Women)
-modal-id: 6
-order: 6
-img: minnesoda.png
+title: Ohio State(Women)
+modal-id: 10
+order: 10
+img: ohio_state.png
 alt: image-alt
 gender: Women
-project-date: September16th 2024
+project-date: September26th 2024
 hometeam: Michigan
-oppositeteam: Minnesota
-description: This report provides specific data analysis before the Michigan women soccer team and Minnesota women soccer team.
-pdf: Women's Pre Match Report at Minnesota 9.16.24.pdf
+oppositeteam: Ohio State
+description: This report provides specific data analysis before the Michigan women soccer team and Ohio State women soccer team.
+pdf: Women's Pre Match Report vs Ohio State 9.26.24.pdf
 ---
