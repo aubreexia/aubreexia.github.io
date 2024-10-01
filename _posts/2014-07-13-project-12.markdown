@@ -1,0 +1,14 @@
+---
+layout: default
+title: Ohio State(Men)
+modal-id: 11
+order: 11
+img: ohio_state.png
+alt: image-alt
+gender: Men
+project-date: October 1st 2024
+hometeam: Michigan
+oppositeteam: Ohio State
+description: This report provides specific data analysis before the Michigan men soccer team and Ohio State men soccer team.
+pdf: Men's Pre Match Report vs Ohio State 10.1.24.pdf
+---
