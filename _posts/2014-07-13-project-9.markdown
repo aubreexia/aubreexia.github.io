@@ -6,7 +6,7 @@ order: 9
 img: rugers.png
 alt: image-alt
 gender: Men
-project-date: September25th 2024
+project-date: September 25th 2024
 hometeam: Michigan
 oppositeteam: Rutgers
 description: This report provides specific data analysis before the Michigan men soccer team and Rutgers men soccer team.
