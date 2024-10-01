@@ -1,5 +1,6 @@
 ---
 layout: default
+title: Lowa State(Women)
 modal-id: 1
 order: 1
 img: lowa_state.png
