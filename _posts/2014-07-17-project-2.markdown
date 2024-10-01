@@ -10,5 +10,5 @@ project-date: September 8th 2024
 hometeam: Michigan
 oppositeteam: Alabama 
 description: This report provides specific data analysis before the Michigan women soccer team and Alabama women soccer team.
-pdf: Women's Alabama 9.8.24..pdf
+pdf: Women's Alabama 9.8.24.pdf
 ---
