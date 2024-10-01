@@ -3,7 +3,7 @@ layout: default
 title: Michigan State(Women)
 modal-id: 12
 order: 12
-img: msu.png
+img: michigan_state.png
 alt: image-alt
 gender: Women
 project-date: October 2nd 2024
