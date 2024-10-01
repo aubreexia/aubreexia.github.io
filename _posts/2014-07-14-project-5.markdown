@@ -1,11 +1,15 @@
 ---
 layout: default
+title: Washington(Men)
 modal-id: 5
-date: 2014-07-14
-img: penn_state_1.png
+order: 5
+img: washington.png
 alt: image-alt
-project-date: April 2014
-client: Start Bootstrap
-category: Web Development
-description: Use this area of the page to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia neque assumenda ipsam nihil, molestias magnam, recusandae quos quis inventore quisquam velit asperiores, vitae? Reprehenderit soluta, eos quod consequuntur itaque. Nam.
+gender: Women
+project-date: September13th 2024
+hometeam: Michigan
+oppositeteam: Washington
+description: This report provides specific data analysis before the Michigan men soccer team and Washington men soccer team.
+pdf: Men's Pre Match Report vs Washington 9.13.24.pdf
 ---
+
