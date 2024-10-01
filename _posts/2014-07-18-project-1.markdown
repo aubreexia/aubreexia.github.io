@@ -3,9 +3,10 @@ layout: default
 modal-id: 1
 img: penn_state.png
 alt: image-alt
+gender: Men
 project-date: September 10th 2024
-hometeam: Michigan Wolverines (Men)
-oppositeteam: Penn State Nittany Lion (Men)
+hometeam: Michigan Wolverines
+oppositeteam: Penn State Nittany Lion
 description: This report provides specific data analysis before the Michigan men's soccer team and Penn State men's soccer team.
 pdf: Men's Pre Match Report vs Penn State 9.10.24 copy.pdf
 ---
