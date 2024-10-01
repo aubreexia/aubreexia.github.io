@@ -16,17 +16,7 @@
           <div class="modal-body">
             <h2>{{ post.title }}</h2>
             <hr class="star-primary">
-            <div class="image-overlay-container">
-              <img src="img/portfolio/{{ post.img }}" class="img-responsive img-centered" alt="{{ post.alt }}">
-              <div class="image-overlay-content">
-                {% if post.project-date %}
-                <p class="image-date">{{ post.project-date }}</p>
-                {% endif %}
-                {% if post.gender %}
-                <p class="image-gender">{{ post.gender }}</p>
-                {% endif %}
-              </div>
-            </div>
+            <img src="img/portfolio/{{ post.img }}" class="img-responsive img-centered" alt="{{ post.alt }}">
             {% if post.description %}
             <p>{{ post.description }}</p>
             {% endif %}
@@ -63,3 +53,4 @@
   </div>
 </div>
 {% endfor %}
+
