@@ -1,8 +1,8 @@
 ---
 layout: default
 title: University of Alabama(Women)
-modal-id: 1
-order: 1
+modal-id: 2
+order: 2
 img: alabama.png
 alt: image-alt
 gender: Women
