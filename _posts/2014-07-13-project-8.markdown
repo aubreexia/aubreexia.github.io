@@ -6,7 +6,7 @@ order: 8
 img: nebraska.png
 alt: image-alt
 gender: Women
-project-date: September20th 2024
+project-date: September 20th 2024
 hometeam: Michigan
 oppositeteam: Nebraska
 description: This report provides specific data analysis before the Michigan women soccer team and Nebraska women soccer team.
