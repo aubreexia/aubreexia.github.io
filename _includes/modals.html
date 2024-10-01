@@ -1,10 +1,11 @@
 <!-- Portfolio Modals -->
-{% assign sorted_posts = site.posts | map: 'path' | sort %}
-{% for path in sorted_posts %}
+{% assign posts_with_numbers = site.posts | map: 'path' %}
+{% assign sorted_numbers = posts_with_numbers | map: 'path' | sort_natural %}
+{% for path in sorted_numbers %}
   {% assign post = site.posts | where: 'path', path | first %}
   {% assign filename_parts = post.path | split: '-' %}
-  {% assign modal_number = filename_parts[3] | remove: 'project' | remove: '.markdown' %}
-  <div class="portfolio-modal modal fade" id="portfolioModal-{{ modal_number }}" tabindex="-1" role="dialog" aria-hidden="true">
+  {% assign project_number = filename_parts[2] | remove: 'project-' | remove: '.markdown' %}
+  <div class="portfolio-modal modal fade" id="portfolioModal-{{ project_number }}" tabindex="-1" role="dialog" aria-hidden="true">
     <div class="modal-content">
       <div class="close-modal" data-dismiss="modal">
         <div class="lr">
