@@ -6,7 +6,7 @@ order: 5
 img: washington.png
 alt: image-alt
 gender: Men
-project-date: September13th 2024
+project-date: September 13th 2024
 hometeam: Michigan
 oppositeteam: Washington
 description: This report provides specific data analysis before the Michigan men soccer team and Washington men soccer team.
