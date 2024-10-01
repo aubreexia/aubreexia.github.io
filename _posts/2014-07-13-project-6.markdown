@@ -3,7 +3,7 @@ layout: default
 title: Minnesota(Women)
 modal-id: 6
 order: 6
-img: minnesota.png
+img: minnesoda.png
 alt: image-alt
 gender: Women
 project-date: September16th 2024
