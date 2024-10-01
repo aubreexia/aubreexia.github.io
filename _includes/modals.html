@@ -1,60 +1,60 @@
 <!-- Portfolio Modals -->
-{% assign sorted_posts = site.posts %}
-{% assign sorted_posts = sorted_posts | sort: 'path' %}
-{% for post in sorted_posts %}
-{% assign filename_parts = post.path | split: '-' %}
-{% assign modal_number = filename_parts[3] | remove: 'project' | remove: '.markdown' %}
-<div class="portfolio-modal modal fade" id="portfolioModal-{{ modal_number }}" tabindex="-1" role="dialog" aria-hidden="true">
-  <div class="modal-content">
-    <div class="close-modal" data-dismiss="modal">
-      <div class="lr">
-        <div class="rl">
+{% assign sorted_posts = site.posts | map: 'path' | sort %}
+{% for path in sorted_posts %}
+  {% assign post = site.posts | where: 'path', path | first %}
+  {% assign filename_parts = post.path | split: '-' %}
+  {% assign modal_number = filename_parts[3] | remove: 'project' | remove: '.markdown' %}
+  <div class="portfolio-modal modal fade" id="portfolioModal-{{ modal_number }}" tabindex="-1" role="dialog" aria-hidden="true">
+    <div class="modal-content">
+      <div class="close-modal" data-dismiss="modal">
+        <div class="lr">
+          <div class="rl">
+          </div>
         </div>
       </div>
-    </div>
-    <div class="container">
-      <div class="row">
-        <div class="col-lg-8 col-lg-offset-2">
-          <div class="modal-body">
-            <h2>{{ post.title }}</h2>
-            <hr class="star-primary">
-            <img src="img/portfolio/{{ post.img }}" class="img-responsive img-centered" alt="{{ post.alt }}">
-            {% if post.description %}
-            <p>{{ post.description }}</p>
-            {% endif %}
-            {% if post.pdf %}
-            <p><a href="img/pdf/{{ post.pdf }}" target="_blank">View Pre-Match Report (PDF)</a></p>
-            {% endif %}
-            <ul class="list-inline item-details">
-              {% if post.hometeam %}
-              <li>Home Team:
-                <strong>{{ post.hometeam }}</strong>
-              </li>
+      <div class="container">
+        <div class="row">
+          <div class="col-lg-8 col-lg-offset-2">
+            <div class="modal-body">
+              <h2>{{ post.title }}</h2>
+              <hr class="star-primary">
+              <img src="img/portfolio/{{ post.img }}" class="img-responsive img-centered" alt="{{ post.alt }}">
+              {% if post.description %}
+              <p>{{ post.description }}</p>
               {% endif %}
-              {% if post.gender %}
-              <li>Gender:
-                <strong>{{ post.gender }}</strong>
-              </li>
+              {% if post.pdf %}
+              <p><a href="img/pdf/{{ post.pdf }}" target="_blank">View Pre-Match Report (PDF)</a></p>
               {% endif %}
-              {% if post.project-date %}
-              <li>Date:
-                <strong>{{ post.project-date }}</strong>
-              </li>
-              {% endif %}
-              {% if post.oppositeteam %}
-              <li>Opposite Team:
-                <strong>{{ post.oppositeteam }}</strong>
-              </li>
-              {% endif %}
-            </ul>
-            <button type="button" class="btn btn-default" data-dismiss="modal"><i class="fa fa-times"></i> Close</button>
+              <ul class="list-inline item-details">
+                {% if post.hometeam %}
+                <li>Home Team:
+                  <strong>{{ post.hometeam }}</strong>
+                </li>
+                {% endif %}
+                {% if post.gender %}
+                <li>Gender:
+                  <strong>{{ post.gender }}</strong>
+                </li>
+                {% endif %}
+                {% if post.project-date %}
+                <li>Date:
+                  <strong>{{ post.project-date }}</strong>
+                </li>
+                {% endif %}
+                {% if post.oppositeteam %}
+                <li>Opposite Team:
+                  <strong>{{ post.oppositeteam }}</strong>
+                </li>
+                {% endif %}
+              </ul>
+              <button type="button" class="btn btn-default" data-dismiss="modal"><i class="fa fa-times"></i> Close</button>
+            </div>
           </div>
         </div>
       </div>
     </div>
   </div>
-</div>
 {% endfor %}
 
-{% endfor %}
+
 
