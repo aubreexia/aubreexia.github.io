@@ -1,14 +1,14 @@
 ---
 layout: default
-title: Minnesota(Women)
-modal-id: 6
-order: 6
-img: minnesoda.png
+title: Nebraska(Women)
+modal-id: 8
+order: 8
+img: nebraska.png
 alt: image-alt
 gender: Women
-project-date: September16th 2024
+project-date: September20th 2024
 hometeam: Michigan
-oppositeteam: Minnesota
-description: This report provides specific data analysis before the Michigan women soccer team and Minnesota women soccer team.
-pdf: Women's Pre Match Report at Minnesota 9.16.24.pdf
+oppositeteam: Nebraska
+description: This report provides specific data analysis before the Michigan women soccer team and Nebraska women soccer team.
+pdf: Women's Pre Match Report vs Nebraska 9.20.24.pdf
 ---
