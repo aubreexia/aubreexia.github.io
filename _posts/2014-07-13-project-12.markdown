@@ -1,14 +1,14 @@
 ---
 layout: default
-title: Ohio State(Men)
-modal-id: 11
-order: 11
-img: ohio_state.png
+title: Michigan State(Women)
+modal-id: 12
+order: 12
+img: msu.png
 alt: image-alt
-gender: Men
-project-date: October 1st 2024
-hometeam: Michigan
-oppositeteam: Ohio State
-description: This report provides specific data analysis before the Michigan men soccer team and Ohio State men soccer team.
-pdf: Men's Pre Match Report vs Ohio State 10.1.24.pdf
+gender: Women
+project-date: October 2nd 2024
+hometeam: Michigan Ann Arbor
+oppositeteam: Michigan State
+description: This report provides specific data analysis before the Michigan Ann Arbor women soccer team and Michigan State women soccer team.
+pdf: Women's Pre Match Report at MSU 10.2.24.pdf
 ---
