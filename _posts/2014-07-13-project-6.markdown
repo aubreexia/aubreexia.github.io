@@ -6,7 +6,7 @@ order: 6
 img: minnesoda.png
 alt: image-alt
 gender: Women
-project-date: September16th 2024
+project-date: September 16th 2024
 hometeam: Michigan
 oppositeteam: Minnesota
 description: This report provides specific data analysis before the Michigan women soccer team and Minnesota women soccer team.
