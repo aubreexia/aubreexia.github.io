@@ -482,3 +482,23 @@ footer .footer-below {
     transform: translateZ(0);
     -webkit-transform: translateZ(0);
 }
+
+.image-overlay-container {
+  position: relative;
+  text-align: center;
+}
+
+.image-overlay-content {
+  position: absolute;
+  top: 50%;  /* Center vertically */
+  left: 50%; /* Center horizontally */
+  transform: translate(-50%, -50%);
+  color: white; /* 文字颜色 */
+  background-color: rgba(0, 0, 0, 0.5); /* 半透明背景 */
+  padding: 10px; /* 文字周围的间隙 */
+}
+
+.image-date, .image-gender {
+  font-size: 20px; /* 文字大小 */
+  font-weight: bold; /* 文字粗细 */
+}
