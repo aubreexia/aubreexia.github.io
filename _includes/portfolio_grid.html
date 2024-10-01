@@ -8,13 +8,9 @@
       </div>
     </div>
     <div class="portfolio-flex-row">
-      {% assign sorted_posts = site.posts | sort: 'path' %}
-      {% for post in sorted_posts %}
-      {% assign parts = post.path | split: '-' %}
-      {% assign project_num = parts[3] | split: '.' %}
-      {% assign project_id = project_num[0] | replace: 'project', '' %}
+      {% for post in site.posts %}
       <div class="portfolio-flex-item portfolio-item">
-        <a href="#portfolioModal-{{ project_id }}" class="portfolio-link" data-toggle="modal">
+        <a href="#portfolioModal-{{ post.modal-id }}" class="portfolio-link" data-toggle="modal">
           <div class="caption">
             <div class="caption-content">
               <i class="fa fa-search-plus fa-3x"></i>
