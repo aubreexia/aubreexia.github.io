@@ -10,5 +10,5 @@ project-date: September10th 2024
 hometeam: Michigan
 oppositeteam: Penn State 
 description: This report provides specific data analysis before the Michigan men soccer team and Penn State men soccer team.
-pdf: Men's Pre Match Report vs Penn State 9.10.24 copy.pdf
+pdf: Men's Pre Match Report vs Penn State 9.10.24.pdf
 ---
