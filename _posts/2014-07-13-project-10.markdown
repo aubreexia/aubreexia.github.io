@@ -6,7 +6,7 @@ order: 10
 img: ohio_state.png
 alt: image-alt
 gender: Women
-project-date: September26th 2024
+project-date: September 26th 2024
 hometeam: Michigan
 oppositeteam: Ohio State
 description: This report provides specific data analysis before the Michigan women soccer team and Ohio State women soccer team.
