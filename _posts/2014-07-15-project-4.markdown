@@ -1,11 +1,14 @@
 ---
 layout: default
+title: Penn State University(Women)
 modal-id: 4
-date: 2014-07-15
-img: mini.png
+order: 4
+img: penn_state.png
 alt: image-alt
-project-date: April 2014
-client: Start Bootstrap
-category: Web Development
-description: Use this area of the page to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia neque assumenda ipsam nihil, molestias magnam, recusandae quos quis inventore quisquam velit asperiores, vitae? Reprehenderit soluta, eos quod consequuntur itaque. Nam.
+gender: Women
+project-date: September10th 2024
+hometeam: Michigan
+oppositeteam: Penn State 
+description: This report provides specific data analysis before the Michigan women soccer team and Penn State women soccer team.
+pdf: Women's Pre Match Report vs Penn State 9.10.24.pdf
 ---
