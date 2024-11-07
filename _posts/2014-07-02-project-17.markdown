@@ -1,0 +1,14 @@
+---
+layout: default
+title: Wisconsin(Men)
+modal-id: 17
+order: 17
+img: wisc.png
+alt: image-alt
+gender: Men
+project-date: October 31st 2024
+hometeam: Michigan Ann Arbor
+oppositeteam: Wisconsin
+description: This report provides specific data analysis before the Michigan Ann Arbor men soccer team and Wisconsin men soccer team.
+pdf: Men's Pre Match Report vs Wisconsin 10.31.24.pdf
+---
