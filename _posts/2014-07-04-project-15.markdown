@@ -1,0 +1,14 @@
+---
+layout: default
+title: Maryland(Men)
+modal-id: 15
+order: 15
+img: maryland.png
+alt: image-alt
+gender: Men
+project-date: October 22nd 2024
+hometeam: Michigan Ann Arbor
+oppositeteam: Maryland
+description: This report provides specific data analysis before the Michigan Ann Arbor women soccer team and Maryland women soccer team.
+pdf: Men's Pre Match Report vs Maryland 10.22.24.pdf
+---
