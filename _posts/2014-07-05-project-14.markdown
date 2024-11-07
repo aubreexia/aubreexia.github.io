@@ -1,0 +1,14 @@
+---
+layout: default
+title: Washington(Women)
+modal-id: 14
+order: 14
+img: washington.png
+alt: image-alt
+gender: Women
+project-date: October 7th 2024
+hometeam: Michigan Ann Arbor
+oppositeteam: Washington
+description: This report provides specific data analysis before the Michigan Ann Arbor women soccer team and Washington women soccer team.
+pdf: Women's Pre Match Report at Washington 10.7.24.pdf
+---
