@@ -1,0 +1,14 @@
+---
+layout: default
+title: Wisconsin(Women)
+modal-id: 16
+order: 16
+img: wisconsin.png
+alt: image-alt
+gender: Women
+project-date: October 24th 2024
+hometeam: Michigan Ann Arbor
+oppositeteam: Wisconsin
+description: This report provides specific data analysis before the Michigan Ann Arbor women soccer team and Wisconsin women soccer team.
+pdf: Women's Pre Match Report vs Wisconsin 10.24.24.pdf
+---
