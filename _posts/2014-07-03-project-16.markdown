@@ -3,7 +3,7 @@ layout: default
 title: Wisconsin(Women)
 modal-id: 16
 order: 16
-img: wisconsin.png
+img: wisc.png
 alt: image-alt
 gender: Women
 project-date: October 24th 2024
